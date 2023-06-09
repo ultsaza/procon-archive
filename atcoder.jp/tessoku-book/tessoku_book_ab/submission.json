@@ -1,0 +1,12 @@
+{
+	"id": 42104076,
+	"epoch_second": 1686331814,
+	"problem_id": "tessoku_book_ab",
+	"contest_id": "tessoku-book",
+	"user_id": "ult_saza",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 1000,
+	"length": 600,
+	"result": "AC",
+	"execution_time": 38
+}
