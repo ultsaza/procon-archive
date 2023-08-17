@@ -1,0 +1,12 @@
+{
+	"id": 44659848,
+	"epoch_second": 1692258611,
+	"problem_id": "abc273_b",
+	"contest_id": "newjudge-2308-algorithm",
+	"user_id": "ult_saza",
+	"language": "C++ 20 (gcc 12.2)",
+	"point": 200,
+	"length": 844,
+	"result": "AC",
+	"execution_time": 11
+}
