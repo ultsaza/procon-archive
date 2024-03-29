@@ -1,0 +1,12 @@
+{
+	"id": 51778483,
+	"epoch_second": 1711725607,
+	"problem_id": "dfs_a",
+	"contest_id": "atc001",
+	"user_id": "ult_saza",
+	"language": "C++ 20 (gcc 12.2)",
+	"point": 100,
+	"length": 1475,
+	"result": "AC",
+	"execution_time": 10
+}
