@@ -1,0 +1,12 @@
+{
+	"id": 53060680,
+	"epoch_second": 1714757718,
+	"problem_id": "panasonic2020_c",
+	"contest_id": "math-and-algorithm",
+	"user_id": "ult_saza",
+	"language": "C++ 20 (gcc 12.2)",
+	"point": 300,
+	"length": 404,
+	"result": "AC",
+	"execution_time": 1
+}
