@@ -1,0 +1,12 @@
+{
+	"id": 54291568,
+	"epoch_second": 1717739374,
+	"problem_id": "math_and_algorithm_aa",
+	"contest_id": "math-and-algorithm",
+	"user_id": "ult_saza",
+	"language": "C++ 20 (gcc 12.2)",
+	"point": 1000,
+	"length": 1560,
+	"result": "AC",
+	"execution_time": 47
+}
