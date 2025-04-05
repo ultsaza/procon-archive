@@ -1,0 +1,12 @@
+{
+	"id": 64535395,
+	"epoch_second": 1743857126,
+	"problem_id": "abc400_c",
+	"contest_id": "abc400",
+	"user_id": "ult_saza",
+	"language": "Python (CPython 3.11.4)",
+	"point": 350,
+	"length": 768,
+	"result": "AC",
+	"execution_time": 11
+}
