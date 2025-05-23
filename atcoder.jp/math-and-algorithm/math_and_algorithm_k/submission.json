@@ -1,0 +1,12 @@
+{
+	"id": 66057494,
+	"epoch_second": 1747994230,
+	"problem_id": "math_and_algorithm_k",
+	"contest_id": "math-and-algorithm",
+	"user_id": "ult_saza",
+	"language": "Rust (rustc 1.70.0)",
+	"point": 1000,
+	"length": 404,
+	"result": "AC",
+	"execution_time": 1
+}
