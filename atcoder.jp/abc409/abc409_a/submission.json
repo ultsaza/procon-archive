@@ -1,0 +1,12 @@
+{
+	"id": 66613356,
+	"epoch_second": 1749411310,
+	"problem_id": "abc409_a",
+	"contest_id": "abc409",
+	"user_id": "ult_saza",
+	"language": "Rust (rustc 1.70.0)",
+	"point": 100,
+	"length": 288,
+	"result": "AC",
+	"execution_time": 1
+}
